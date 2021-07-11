@@ -21,7 +21,7 @@ git push -u origin master
 | command     | Description |
 | ----------- | ----------- |
 | git add.    | Track       |
-| git status  | show etails |
+| git status  | show details |
 | git branch  | current branch|
 | git log     | details of github user,history|
 
